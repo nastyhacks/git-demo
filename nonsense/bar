@@ -1,0 +1,7 @@
+import bar
+
+def visit_bar(patron: str):
+   drink = bar.order('pinot noir')
+   patron.inbibe(drink)
+
+# This is a python comment
