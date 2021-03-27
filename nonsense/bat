@@ -1,3 +1,15 @@
 # Nothing to see here.
 
 Blah!
+
+dinner = [
+    'butter chicken',
+    'calrose rice',
+    'peas',
+    'roti',
+]
+
+dessert = [
+    'apple pie',
+    'whipped cream',
+]

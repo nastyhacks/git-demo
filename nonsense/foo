@@ -2,4 +2,10 @@ This is a file full of foo.
 
 It has several lines.
 
-None of them mean anything.
+None of them mean much of anything.
+
+instruments = [
+    'guitar',
+    'bass',
+    'drums',
+]
