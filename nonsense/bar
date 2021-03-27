@@ -5,3 +5,11 @@ def visit_bar(patron: str):
    patron.inbibe(drink)
 
 # This is a python comment
+
+letters = ['a', 'b', 'c']
+
+order_item = {
+   'name': 'inflatable alligator',
+   'sku': '12345678',
+   'quantity': 14,
+}
